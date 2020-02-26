@@ -1,0 +1,29 @@
+#quote-box {
+  background-color: white;
+  width: 40%;
+  padding: 55px 30px;
+  border: none;
+  border-radius: 3px;
+}
+
+button {
+  border-radius: 3px;
+}
+
+.quote-button {
+  padding: 8px 18px;
+  margin-top: 15px;
+  border: none;
+  font-family: "Trade Winds", sans-serif;
+  cursor: pointer;
+  color: white;
+  transition: all 300ms ease-in-out;
+}
+
+.btn-tweet:hover {
+  padding: 8px 45px;
+}
+
+.quote-button:hover {
+  color: rgba(190, 190, 184, 1);
+}
